@@ -1,8 +1,5 @@
 # Floki
-Rebuild of Simple Subdomain Finder
-
-
-Didn't know if I wanted to keep it or make something new. Decided to make it its own. This now gives you the option for subdomains and directories. While it lists all active and inactive links as well as the server code and color coded.
+This now gives you the option for subdomains and directories. While it lists all active and inactive links as well as the server code and color coded. Now includes the ability to scan tor sites (in beta) so I will be updating that as needed.
 
 Besure to run pip install -r requirements.txt 
 
